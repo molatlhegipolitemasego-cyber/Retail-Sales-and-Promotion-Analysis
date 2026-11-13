@@ -23,6 +23,6 @@ Microsoft Excel for formulas, analysis and charts.
 
 The average selling price was R35.40 per unit, and the product recorded an overall gross loss of R7.12 million. The three selected promotions increased sales volumes and revenue but generated gross losses.
 
-*Recommendation**
+**Recommendation**
 
 Check promotional prices against unit costs and assess promotions using gross profit alongside revenue and sales volumes.
